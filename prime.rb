@@ -1,4 +1,4 @@
-#require 'prime'
+require 'prime'
 
 def prime?(num)
   num.prime? do |num|
